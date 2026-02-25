@@ -2,6 +2,8 @@
 
 ### Competitive Programmer exploring Full Stack Development
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="100rabhcsmc"> </p>
+
 - 🔭 I'm currently working on **a full stack project**
 
 - 🌱 I'm currently learning **MERN stack and improving DSA**
