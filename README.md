@@ -2,7 +2,7 @@
 
 ### Competitive Programmer exploring Full Stack Development
 
-- 🔭 I'm currently working on **a full stack stack project**
+- 🔭 I'm currently working on **a full stack project**
 
 - 🌱 I'm currently learning **MERN stack and improving DSA**
 
