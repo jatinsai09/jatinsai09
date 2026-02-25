@@ -4,7 +4,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-### Competitive Programmer exploring Full Stack Development
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Competitve+Programmer,; Exploring Full Stack Development,;Computer+Science+Student,;Guardian+On+LeetCode,;Specialist+On+Codeforces,;Love+to+learn+new+stuffs..&lt;3"></a>
 
 - 🔭 I'm currently working on **a full stack project**
 
