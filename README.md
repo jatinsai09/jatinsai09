@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **a full stack project**
 
-- 🌱 I'm currently learning **MERN stack and improving DSA**
+- 🌱 I'm currently learning **the MERN stack and improving my problem solving skills**
 
 - 📫 How to reach me **jatinsai09@gmail.com**
 
